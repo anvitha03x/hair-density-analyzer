@@ -108,5 +108,3 @@ The current implementation uses basic edge detection for hair density analysis. 
   * Develop a mobile app for easier image capture and daily use.
 
 ---
-
-Would you like this version formatted into a full `README.md` file, or help generating the corresponding Python script and folder setup?
